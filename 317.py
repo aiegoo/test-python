@@ -7,3 +7,8 @@ def calc(x, y):
 a, b = 3, 12
 a = calc(a, b)
 print(a, b)
+
+#
+# Output:
+# 9 4.0
+# 9 12
